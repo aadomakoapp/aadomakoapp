@@ -1,14 +1,14 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Khaled Badran </h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Augustine Adomako </h1>
 
 ![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a passionate, athletic, full stack software developer and occasional content creator. My aim is to make people's lives better & easier by developing applications and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life. This is why I occasionally post coding and tech videos. Aside from that, I am a very athletic person as I regularly practice Olympic weightlifting and Powerlifting. Hence, I also occasionally post some sports content.
+   I am a computer science studnet with concentrations in math and finance. I love video games and the learning new technologies. I build tech solutions to modern day problems. And ohhhh, when I am not dosing any of these, I am busy optimizing the soltuions that I built already.
 <br>
 <br>
 <div align="center">
 
-[Email Me](mailto:khaledb.dev@gmail.com)
+[Email Me](mailto:augustine.jr659@gmail.com)
 </div>
 </p>    
 <br>
@@ -143,14 +143,14 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhaledBadranDev&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+![Augustine Adomako's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadomakoapp&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KhaledBadranDev&count_private=true&theme=algolia&border_radius=20)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadomakoapp&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadomakoapp&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 <!--  End Stats Cards -->
 
