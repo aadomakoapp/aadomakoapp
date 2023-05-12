@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Augustine Adomako </h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
+![github-header-image](https://github.com/aadomakoapp/aadomakoapp/assets/96935113/c8a4527a-076c-416e-b77f-e9ae33e9dc1c)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
    I am a computer science studnet with concentrations in math and finance. I love video games and the learning new technologies. I build tech solutions to modern day problems. And ohhhh, when I am not dosing any of these, I am busy optimizing the soltuions that I built already.
