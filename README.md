@@ -99,7 +99,7 @@
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadomakoapp&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadomakoapp&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadomakoapp&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--  End Stats Cards -->
 
