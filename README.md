@@ -3,7 +3,7 @@
 ![github-header-image](https://github.com/aadomakoapp/aadomakoapp/assets/96935113/c8a4527a-076c-416e-b77f-e9ae33e9dc1c)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-   I am a computer science studnet with concentrations in math and finance. I love video games and the learning new technologies. I build tech solutions to modern day problems. And ohhhh, when I am not dosing any of these, I am busy optimizing the soltuions that I built already.
+   I am a computer science studnet with concentrations in math and finance. I love video games and the learning new technologies. I build tech solutions to modern day problems. And ohhhh, when I am not doing any of these, I am busy optimizing the soltuions that I built already.
 <br>
 <br>
 <div align="center">
